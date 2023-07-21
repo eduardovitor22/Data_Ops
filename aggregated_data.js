@@ -1,0 +1,1 @@
+var aggregatedData = [{"Pa\u00eds":"Alemanh\u00e3","Quantidade de Carros":1},{"Pa\u00eds":"EUA","Quantidade de Carros":2},{"Pa\u00eds":"Fran\u00e7a","Quantidade de Carros":1},{"Pa\u00eds":"Jap\u00e3o","Quantidade de Carros":1}];
